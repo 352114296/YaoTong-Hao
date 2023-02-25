@@ -1,0 +1,308 @@
+{
+   "browser": {
+      "enabled_labs_experiments": [ "enable-tab-audio-muting" ],
+      "hung_plugin_detect_freq": 2000,
+      "last_redirect_origin": "",
+      "last_welcomed_os_version": "10.0",
+      "plugin_message_response_timeout": 25000,
+      "shortcut_migration_version": "13.1.1302.0",
+      "ssl": {
+         "cnsm_mode": 0
+      }
+   },
+   "component_update": {
+      "bankmode": {
+         "7zfilesize": "269881",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\bankmode\\"
+      },
+      "download": {
+         "7zfilesize": "1610118",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\download\\3.2.1.47"
+      },
+      "extfeedweibo": {
+         "7zfilesize": "371383",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\extfeedweibo\\"
+      },
+      "extwebmail": {
+         "7zfilesize": "1036976",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\extwebmail\\"
+      },
+      "extyouxi": {
+         "7zfilesize": "1743548",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\extyouxi\\"
+      },
+      "gameplugin": {
+         "7zfilesize": "821574",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\gameplugin\\2.0.0.1001/GamePlugin.dll"
+      },
+      "huabao": {
+         "7zfilesize": "7731072",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\huabao\\13.0.62.0",
+         "comfilepathdelete": ""
+      },
+      "npflash": {
+         "7zfilesize": "7501114",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\npflash\\29_0_0_171/NPSWF32_29_0_0_171.dll"
+      },
+      "ppflash": {
+         "7zfilesize": "6985204",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\ppflash\\29_0_0_171/pepflashplayer32_29_0_0_171.dll"
+      },
+      "qsvencoder": {
+         "7zfilesize": "2235147",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\qsvencoder\\"
+      },
+      "seguard": {
+         "downloaddttime": "13282068338113991",
+         "downloadfilemd5": "780d42287d6fc6952022090f27ba25f0",
+         "downloadfilepath": "G:\\360se\\360se6\\Application\\components\\seguard\\download\\pdguard.7z",
+         "downloadfilever": "1.0.0.1080"
+      },
+      "sesvr": {
+         "7zfilesize": "2263833",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\sesvr\\13.0.0.1313",
+         "comfilepathdelete": ""
+      },
+      "snapplugin": {
+         "7zfilesize": "143654",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\snapplugin\\"
+      },
+      "swiftshader": {
+         "7zfilesize": "674229",
+         "comfilepath": "D:\\360se\\360se6\\Application\\components\\swiftshader\\3.3.0.2"
+      },
+      "videoclips_png": "t015c65d4ea5f3de7b3",
+      "widevine12": {
+         "7zfilesize": "6252086",
+         "comfilepath": "G:\\360se\\360se6\\Application\\components\\widevine12\\4_10_2209_0\\widevinecdm.dll"
+      }
+   },
+   "data_use_measurement": {
+      "data_used": {
+         "services": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         },
+         "user": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         }
+      }
+   },
+   "easy_unlock": {
+      "device_id": "a36ea75d-82ff-4f7b-8c92-d292e6417ab1"
+   },
+   "first_jisu13_jijian_skin": false,
+   "first_se12_skin": false,
+   "gmssl_mode": {
+      "enabled": false
+   },
+   "hardware_acceleration_mode_previous": true,
+   "is_frome_A_welcome_page": true,
+   "legacy": {
+      "profile": {
+         "name": {
+            "migrated": true
+         }
+      }
+   },
+   "os_crypt": {
+      "encrypted_key": "RFBBUEkBAAAA0Iyd3wEV0RGMegDAT8KX6wEAAABUpddluBHCT6KobBUFH2JQAAAAAAIAAAAAABBmAAAAAQAAIAAAAPgHNUmrMiSMiu48wkoY2Ry4d9NTqx4pan+dGuiKx0P1AAAAAA6AAAAAAgAAIAAAAOp+sU+CAyYOg9xBY/tt978WiNSqqDLUGSh2qVRDF5lOMAAAAPtK09QKFuXGj9L9PdnC5nmygiU/V5zFidPYXE+CNY21+EXVqzSBLI5lzefwtQEu6UAAAABEdjMr2Al8ZNEp/t3kQ5gzHTRUZhBe2neW/U4tlQfm3/5eEWdy1nXWvXevmmlXPIo/inQ6hlN/ZzgfXkB1r581"
+   },
+   "plugins": {
+      "metadata": {
+         "adobe-flash-player": {
+            "displayurl": true,
+            "group_name_matcher": "*Shockwave Flash*",
+            "help_url": "https://support.google.com/chrome/?p=plugin_flash",
+            "lang": "en-US",
+            "mime_types": [ "application/futuresplash", "application/x-shockwave-flash" ],
+            "name": "Adobe Flash Player",
+            "url": "https://www.adobe.com/products/flashplayer/end-of-life.html",
+            "versions": [ {
+               "reference": "https://www.adobe.com/products/flashplayer/end-of-life.html",
+               "status": "requires_authorization",
+               "version": "32.0.0.466"
+            } ]
+         },
+         "chromium-pdf": {
+            "group_name_matcher": "*Chromium PDF Viewer*",
+            "mime_types": [  ],
+            "name": "Chromium PDF Viewer",
+            "versions": [ {
+               "comment": "Chromium PDF Viewer has no version information.",
+               "status": "fully_trusted",
+               "version": "0"
+            } ]
+         },
+         "chromium-pdf-plugin": {
+            "group_name_matcher": "*Chromium PDF Plugin*",
+            "mime_types": [  ],
+            "name": "Chromium PDF Plugin",
+            "versions": [ {
+               "comment": "Chromium PDF Plugin has no version information.",
+               "status": "fully_trusted",
+               "version": "0"
+            } ]
+         },
+         "google-chrome-pdf": {
+            "group_name_matcher": "*Chrome PDF Viewer*",
+            "mime_types": [  ],
+            "name": "Chrome PDF Viewer",
+            "versions": [ {
+               "comment": "Google Chrome PDF Viewer has no version information.",
+               "status": "fully_trusted",
+               "version": "0"
+            } ]
+         },
+         "google-chrome-pdf-plugin": {
+            "group_name_matcher": "*Chrome PDF Plugin*",
+            "mime_types": [  ],
+            "name": "Chrome PDF Plugin",
+            "versions": [ {
+               "comment": "Google Chrome PDF Plugin has no version information.",
+               "status": "fully_trusted",
+               "version": "0"
+            } ]
+         },
+         "x-version": 62
+      },
+      "resource_cache_update": "1677240203.134156"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1677317424.134262,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "gaia_given_name": "",
+            "gaia_id": "",
+            "gaia_name": "",
+            "hosted_domain": "",
+            "is_consented_primary_account": false,
+            "is_ephemeral": false,
+            "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "local_auth_credentials": "",
+            "managed_user_id": "",
+            "metrics_bucket_index": 1,
+            "name": "用户1",
+            "shortcut_name": "用户1",
+            "user_name": ""
+         }
+      },
+      "last_active_profiles": [ "Default" ],
+      "metrics": {
+         "next_bucket_index": 2
+      },
+      "profile_counts_reported": "13321713739855281"
+   },
+   "profile_network_context_service": {
+      "http_cache_finch_experiment_groups": "None None None"
+   },
+   "rappor": {
+      "cohort_seed": 20,
+      "secret": "3lMBwKIJibEgViuT3NYFovZoY98Jb+EpxVeOIyVsvZQGUNDZ3crQrum4eE6RRa2A"
+   },
+   "se": {
+      "bankmode": {
+         "bank4_last_updata_time": "13321702055384069",
+         "banklist_last_updata_time": "13321702055384368",
+         "ignorelist": {
+            "boc": {
+               "cancel_count": 1
+            }
+         },
+         "visitedbanks": {
+            "bank-of-china.com": "14",
+            "ccb.com.cn": "29",
+            "icbc.com.cn": "31",
+            "paypal.com": "1"
+         }
+      },
+      "browser": {
+         "asup_need_ad_data": false,
+         "open_doh": {
+            "cloud_allow": false
+         }
+      }
+   },
+   "show-first-run-bubble-option": 0,
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "skin": {
+      "info": {
+         "id": 12,
+         "name": "",
+         "url": "",
+         "version": ""
+      },
+      "last_update": "13321702049899677"
+   },
+   "subresource_filter": {
+      "ruleset_version": {
+         "checksum": 0,
+         "content": "",
+         "format": 0
+      }
+   },
+   "sync_login_info": {
+      "filepath": "8de5d5e876831fd33914505729980b6f",
+      "has_import_se_account": true,
+      "is_auto_login": true,
+      "qid": "2558934572"
+   },
+   "tab_stats": {
+      "last_daily_sample": "13321716430444120",
+      "max_tabs_per_window": 17,
+      "total_tab_count_max": 17,
+      "window_count_max": 3
+   },
+   "ukm": {
+      "persisted_logs": [  ]
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1624452863",
+      "launch_count": "1020"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source2": 4529,
+      "low_entropy_source3": 7081,
+      "session_id": 1019,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "browser_last_live_timestamp": "13321790992690436",
+         "crash_count": 0,
+         "debugger_not_present": 66,
+         "debugger_present": 0,
+         "deferred_count": 0,
+         "discard_count": 19,
+         "execution_phase": 700,
+         "exited_cleanly": false,
+         "incomplete_session_end_count": 14,
+         "launch_count": 66,
+         "session_end_completed": true,
+         "stats_buildtime": "1672199914",
+         "stats_version": "13.1.6380.0-devel",
+         "system_crash_count": 0,
+         "version_mismatch_count": 0
+      }
+   },
+   "variations_crash_streak": 8,
+   "was": {
+      "restarted": false
+   }
+}
